@@ -82,5 +82,5 @@ A detailed project report containing:
 
 is available below:
 
-📄 [View Zepto SQL Analysis Report](sql_project_report.pdf)
+[View Zepto SQL Analysis Report](sql_project_report.docx)
 
