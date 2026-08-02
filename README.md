@@ -41,33 +41,6 @@ This project analyzes Zepto's product inventory using MySQL to answer real-world
 6. Business Insights
 
 ---
-
-## Business Questions Answered
-
-- Top 10 best value products based on discount percentage
-- Products with high MRP but out of stock
-- Estimated revenue by category
-- Products with MRP > 500 and discount < 10%
-- Top 5 categories with highest average discount
-- Price per gram for products above 100g
-- Product segmentation by weight
-- Total inventory weight by category
-
----
-
-## Files
-
-| File | Description |
-|------|-------------|
-| create_database.sql | Creates the database |
-| create_table.sql | Creates the products table |
-| data_exploration.sql | Initial data exploration queries |
-| data_cleaning.sql | Data cleaning queries |
-| business_insights.sql | Business analysis queries |
-| zepto_dataset.csv | Source dataset |
-
----
-
 ### Business Insights
 -Found top 10 best-value products based on discount percentage
 
@@ -84,4 +57,20 @@ This project analyzes Zepto's product inventory using MySQL to answer real-world
 -Grouped products based on weight into Low, Medium, and Bulk categories
 
 -Measured total inventory weight per product category.
+
+## Files
+
+| File | Description |
+|------|-------------|
+| create_database.sql | Creates the database |
+| create_table.sql | Creates the products table |
+| data_exploration.sql | Initial data exploration queries |
+| data_cleaning.sql | Data cleaning queries |
+| business_insights.sql | Business analysis queries |
+| zepto_dataset.csv | Source dataset |
+
+---
+
+##OUTPUT
+For output, do checkout sql_project_report.docx
 
