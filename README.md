@@ -23,6 +23,7 @@ This project analyzes Zepto's product inventory using MySQL to answer real-world
 - HAVING
 - ORDER BY
 - CASE WHEN
+- DISTINCT
 - COUNT
 - SUM
 - AVG
