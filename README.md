@@ -63,7 +63,7 @@ This project analyzes Zepto's product inventory using MySQL to answer real-world
 | data_exploration.sql | Initial data exploration queries |
 | data_cleaning.sql | Data cleaning queries |
 | business_insights.sql | Business analysis queries |
-| dataset/zepto.csv | Source dataset |
+| zepto_dataset.csv | Source dataset |
 
 ---
 
