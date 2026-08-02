@@ -71,6 +71,16 @@ This project analyzes Zepto's product inventory using MySQL to answer real-world
 
 ---
 
-##OUTPUT
-For output, do checkout sql_project_report.docx
+## Documentation
+
+A detailed project report containing:
+- Database setup
+- Data cleaning process
+- SQL queries
+- Business questions
+- Key insights
+
+is available below:
+
+📄 [View Zepto SQL Analysis Report](sql_project_report.pdf)
 
