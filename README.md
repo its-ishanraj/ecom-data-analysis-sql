@@ -71,10 +71,3 @@ This project analyzes Zepto's product inventory using MySQL to answer real-world
 
 ### Business Insights
 
-
-
----
-
-## Author
-
-**Ishan Raj**
