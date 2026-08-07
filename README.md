@@ -82,5 +82,5 @@ A detailed project report containing:
 
 is available below:
 
-[View SQL Analysis Report](sql_project_report.docx)
+[View SQL Analysis Report](sql_project_report.pdf)
 
